@@ -1,0 +1,42 @@
+body {
+  background-image: url("images/waterfall.jpeg");
+}
+#heading {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 38px;
+  color: black;
+}
+
+.todo-list {
+  margin: 0 auto;
+  margin-top: 0px;
+}
+
+input.new-item:focus {
+  outline: none;
+}
+.list-group {
+  height: 100vh;
+  background-color: rgba(201, 192, 192, 0.7);
+  padding-top: 50px;
+}
+.todo-item {
+  background-color: rgba(201, 192, 192, 0.7);
+}
+.new-item {
+  background-color: rgba(201, 192, 192, 0.7);
+}
+.list-group-item {
+  background-color:  rgba(201, 192, 192, 0.0);
+}
+.list-group-item > button.delete,
+.list-group-item > button.complete {
+  float: right;
+  height: 45px;
+  margin-left: 5px;
+}
+
+.edit {
+  width: 100%;
+}
+
