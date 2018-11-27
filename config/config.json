@@ -3,7 +3,7 @@
     "username": "bimu8vcklqg40drp",
     "password": "gnvgktwslncswmbv",
     "database": "todolist",
-    "host": "h2cwrn74535xdazj.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
+    "host": "pvo3jy1abbz69n5d",
     "port": 3306,
     "dialect": "mysql"
   },
