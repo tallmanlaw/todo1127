@@ -2,8 +2,8 @@
   "development": {
     "username": "bimu8vcklqg40drp",
     "password": "gnvgktwslncswmbv",
-    "database": "todolist",
-    "host": "pvo3jy1abbz69n5d",
+    "database": "pvo3jy1abbz69n5d",
+    "host": "h2cwrn74535xdazj.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
     "port": 3306,
     "dialect": "mysql"
   },
